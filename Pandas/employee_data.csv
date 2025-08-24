@@ -1,0 +1,31 @@
+Index,Employee ID,Name,Department,Age,Salary (PKR),Performance Score,City
+0,EPK000,Rao Muhammad Shahroz Khan,Data Analyst,27,115000,8.5,Shahdadpur
+1,EPK001,Ahmed Khan,Sales,28,85000,8.2,Karachi
+2,EPK002,Sara Malik,HR,32,95000,7.8,Lahore
+3,EPK003,Bilal Hussain,IT,26,120000,9.0,Islamabad
+4,EPK004,Ayesha Siddiqui,Marketing,29,88000,8.5,Karachi
+5,EPK005,Farhan Ali,Finance,35,150000,9.3,Lahore
+6,EPK006,Zainab Javed,Customer Support,24,55000,7.0,Faisalabad
+7,EPK007,Imran Qureshi,IT,31,140000,8.9,Islamabad
+8,EPK008,Maryam Saeed,HR,27,82000,8.0,Multan
+9,EPK009,Hamza Tariq,Sales,33,110000,8.6,Karachi
+10,EPK010,Rabia Khan,Finance,30,135000,8.7,Lahore
+11,EPK011,Shahbaz Ahmed,Logistics,36,75000,7.4,Peshawar
+12,EPK012,Sana Iqbal,Marketing,25,70000,7.5,Karachi
+13,EPK013,Waqas Raza,IT,29,125000,8.8,Islamabad
+14,EPK014,Hira Farooq,HR,34,98000,8.1,Lahore
+15,EPK015,Faisal Mehmood,Finance,38,165000,9.1,Karachi
+16,EPK016,Komal Zafar,Customer Support,26,60000,7.3,Multan
+17,EPK017,Kashif Anwar,Sales,32,100000,8.2,Lahore
+18,EPK018,Sadaf Gul,Marketing,28,85000,8.0,Karachi
+19,EPK019,Zeeshan Malik,Logistics,35,78000,7.6,Islamabad
+20,EPK020,Mahnoor Shahid,IT,27,118000,8.7,Lahore
+21,EPK021,Ali Raza,Finance,40,170000,9.4,Karachi
+22,EPK022,Nadia Hussain,HR,29,90000,8.3,Islamabad
+23,EPK023,Adnan Shafiq,Sales,33,105000,8.5,Faisalabad
+24,EPK024,Noor Fatima,Customer Support,25,58000,7.2,Lahore
+25,EPK025,Usman Akhtar,IT,31,130000,8.9,Karachi
+26,EPK026,Mehwish Rafiq,Marketing,28,83000,8.1,Lahore
+27,EPK027,Shahid Nawaz,Logistics,37,80000,7.7,Karachi
+28,EPK028,Aiman Khalid,HR,26,85000,8.2,Islamabad
+29,EPK029,Danish Iqbal,Finance,34,140000,8.8,Multan
