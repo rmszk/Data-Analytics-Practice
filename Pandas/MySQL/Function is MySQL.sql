@@ -1,0 +1,10 @@
+USE mydatabse;
+SELECT * FROM employee_data;
+-- SELECT COUNT(*) FROM employee_data WHERE Gender = 'Female';
+-- select MIN(Salary) AS Min_Salary, MAX(Salary) AS Max_Salary FROM employee_data;
+-- Select SUM(Salary) AS Total_salary FROM employee_data;
+-- select avg(Salary) AS Average_salary FROM employee_data;
+-- select Gender, AVG(Salary) AS Average_salary FROM employee_data GROUP BY gender;
+-- select ID, Gender, Name, length(Name) AS Name_Length FROM employee_data;
+-- select ID, Gender, lower(Name) AS lower, length(Name) AS Name_Length FROM employee_data;
+-- select ID, lower(Name) AS lower, concat(lower(name),"48539") AS username FROM employee_data;
